@@ -37,7 +37,7 @@ int dtSoundModulator = 10; // in ms
 boolean simulateInput = 1;
 
 // pitch is shifted by running faster or slower through the wave table
-int pitchBase = 22050; //base wave table cycling speed in Sample/s
+int pitchBase = 22000; //base wave table cycling speed
 // divide rpm by this number to have good pitch shifting
 float rpmToPitch = 2000.0;
 
