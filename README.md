@@ -1,5 +1,10 @@
 # ZOESoundGenerator
 
+10.03.2020
+I have added a newer version 1.5 where you can read different samples from an SD card.
+
+Description for version 1.2:
+
 This is a simple sound generator for the Renault ZOE and an Arduino Due which produces these noises: https://youtu.be/zKB3S2EzTBk
 
 It loads three samples directly onto the Due, using 80% of RAM. Future versions will use a SD card.
